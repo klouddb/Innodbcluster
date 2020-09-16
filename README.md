@@ -1,6 +1,6 @@
 # Innodb Cluster Open Guide - Brought to you by KLOUDDB.IO
 
-## NOTE : Please refer to Wiki Section of this repo for documentation on below procedures
+## NOTE : Please refer to Wiki Section of this repo for documentation on below procedures https://github.com/klouddb/Innodbcluster/wiki
 
 - [ ] Innodb Cluster Build
     - [ ] Version 8 - Install Procedure
